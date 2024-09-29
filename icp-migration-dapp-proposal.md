@@ -73,3 +73,6 @@
 - Asistente virtual basado en IA para resolver dudas comunes sobre la migración.
 
 Esta dApp proporcionará una solución integral para la migración a ICP, abordando no solo los aspectos técnicos de la transición, sino también la optimización, seguridad, y aprovechamiento máximo de las capacidades únicas de la Internet Computer.
+
+
+ https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=fd3ge-5aaaa-aaaao-a3sha-cai
